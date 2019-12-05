@@ -8,18 +8,9 @@
 * 🔥 Nodejs Full Stack Developer Roadmap
 * (To Be Continue)
 
-## 🔥 Modern Front-End Developer Roadmap
 
-![Modern Front-End Developer Roadmap](./images/frontend-1.3.svg)
-
-## 🔥 Front-End Developer With More Skills
-
-![More Skills](./images/moreskill-1.2.svg)
-
-## 🔥 Nodejs Full Stack Developer Roadmap
-
-![Nodejs Full Stack Developer Roadmap](./images/fullstack-1.1.svg)
-
+| ![Modern Front-End ](./images/frontend-1.3.svg) | ![ More Skills](./images/moreskill-1.2.svg) | ![Nodejs Full Stack](./images/fullstack-1.1.svg) |
+| ----------------------------------------------- | ------------------------------------------- | ------------------------------------------------ |
 
 ## Contribution
 
